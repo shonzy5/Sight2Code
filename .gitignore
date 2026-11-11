@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+users/
+code_sessions/
+dashboard_data/
+temp_audio_*.mp3
+tmp_*.mp3
